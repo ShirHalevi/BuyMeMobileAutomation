@@ -1,3 +1,3 @@
 public class EmptyClass {
-    // want to see the compare button in github 
+    // want to see the compare button in gi
 }
