@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ExtentReportLibs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ExtentReportLibs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/ExtentReportLibs" recursive="false" />
+  </library>
+</component>
